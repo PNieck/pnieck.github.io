@@ -8,6 +8,11 @@ code_link: https://github.com/PNieck/WhatAComfortableWorld
 pdf_link: pdfs/WhatAComforableWorld_EG2026.pdf
 ---
 
+<div style="display: flex; justify-content: center; align-items: center;">
+    <iframe width="960" height="540"
+    src="https://www.youtube.com/embed/QGspxEp2V5g ">
+    </iframe>
+</div>
 
 # Abstract
 
